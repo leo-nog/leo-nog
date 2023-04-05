@@ -10,7 +10,6 @@
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;border-radius: 10px;" src="https://media.discordapp.net/attachments/817860302317944915/898186431770542140/IMG_20211001_152544_698.jpeg?width=676&height=676">
 </div>
   
   ##
