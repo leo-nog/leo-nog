@@ -6,6 +6,7 @@
 
 # 📊 GitHub Stats:
 [![](https://github-readme-streak-stats.herokuapp.com?user=leo-nog&theme=nord&hide_border=true&border_radius=10&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api?username=leo-nog&hide=)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=leo-nog&icon=0&color=0)](https://visitcount.itsvg.in)
