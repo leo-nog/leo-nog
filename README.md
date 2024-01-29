@@ -1,3 +1,9 @@
+> 👨🏻‍🔬 Computer Science Student at Anhembi Morumbi University
+
+> 🎓 Technical Degree in Systems Development
+
+> 👨🏻‍💻 I’m currently learning about IA
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=leo-nog&theme=nord&hide_border=true&border_radius=10&hide=contribs,prs&show_icons=true)
 [![](https://github-readme-streak-stats.herokuapp.com?user=leo-nog&theme=nord&hide_border=true&border_radius=10&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
