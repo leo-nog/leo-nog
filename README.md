@@ -14,6 +14,3 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-s-nog/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/leonogueira.dev)
-
----
-[![](https://visitcount.itsvg.in/api?id=leo-nog&icon=0&color=0)](https://visitcount.itsvg.in)
