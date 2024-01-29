@@ -1,4 +1,4 @@
-> 👨🏻‍🔬 Computer Science Student at Anhembi Morumbi University
+> 👨🏻‍🔬 Computer Scientist by Anhembi Morumbi University
 
 > 🎓 Technical Degree in Systems Development
 
