@@ -1,4 +1,4 @@
-> 👨🏻‍💻 Currently working as General Tech Lead
+> 👨🏻‍💻 Currently working as General Tech Lead at OneFan
 
 > 👨🏻‍🔬 Computer Scientist graduated from Anhembi Morumbi University
 
